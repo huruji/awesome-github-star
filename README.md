@@ -2334,7 +2334,7 @@
 - [closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [MagicCamera](https://github.com/wuhaoyu1990/MagicCamera) - Real-time Filter Camera&VideoRecorder And ImageEditor With Face Beauty For Android---包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
+- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x milliseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计
 - [solo](https://github.com/b3log/solo) - 🎸 一款小而美的博客系统，专为程序员设计。
 - [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
